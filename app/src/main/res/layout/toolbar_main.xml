@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="150dp"
+    android:padding="20dp"
+    android:orientation="vertical"
+    android:background="@drawable/bg_search"
+    android:gravity="bottom">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Selamat datang di NAL'S BASRENG!"
+                android:textColor="@color/white"
+                android:textSize="22sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="12dp"
+                android:text="Toko kami menawarkan berbagai camilan favorit seperti basreng, kripca, krupuk seblak, dan lainnya. Rasakan kelezatan dalam setiap gigitan!"
+                android:textColor="@color/black"
+                android:textSize="11sp"
+                android:textStyle="italic" />
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+</FrameLayout>

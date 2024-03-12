@@ -1,0 +1,126 @@
+<resources>
+    <string name="app_name">e-binis</string>
+
+    //kripik kaca
+
+    <string name="Kripca"> KRIPIK KACA
+        \n
+        \nKami menyediakan kripik kaca, cemilan pedas yang dijamin enak sekali.
+        \nDibuat dengan sepenuh hati, dengan tangan kami sendiri. 🤗🤗
+        \nStock selalu ready setiap hari karena kami produksi sendiri (HOME MADE), dan produksi setiap hari juga.
+        \nSehingga, mempercepat untuk pengiriman nya dan sangat terjamin kehigienisan nya.
+        \n
+        \nHAPPY SHOPPING FOODIE 🤗🤗 </string>
+
+    <string name="alamat1">
+        \nSleman - Yogyakarta
+    </string>
+
+    <string name="caraorder1">
+        \nBerikut langkah-langkah untuk memesan barang di Shopee:
+
+        \n1. Buka Aplikasi Shopee: Pastikan Anda sudah mengunduh dan membuka aplikasi Shopee di perangkat Anda.
+
+        \n2. *Cari Barang*: Gunakan fitur pencarian atau jelajahi kategori barang untuk menemukan produk yang ingin Anda beli.
+
+        \n3. *Pilih Barang*: Setelah menemukan barang yang Anda inginkan, klik atau ketuk untuk membuka halaman produknya.
+
+        \n4. *Periksa Detail*: Pastikan Anda membaca deskripsi produk, ulasan, dan mengecek harga, ukuran, warna, dan spesifikasi lainnya.
+
+        \n5. *Tambahkan ke Keranjang*: Jika Anda ingin membeli produk tersebut, klik atau ketuk tombol "Tambah ke Keranjang".
+
+        \n6. *Pesan Barang*: Setelah semua barang yang Anda inginkan ada di keranjang belanja, buka keranjang belanja Anda dan klik atau ketuk tombol "Checkout" atau "Bayar".
+
+        \n7. *Pilih Metode Pembayaran*: Pilih metode pembayaran yang Anda inginkan, seperti transfer bank, kartu kredit, atau metode pembayaran lainnya yang tersedia.
+
+        \n8. *Isi Detail Pembayaran*: Masukkan detail pembayaran yang diperlukan, seperti nomor kartu atau informasi rekening bank.
+
+        \n9. *Konfirmasi Pesanan*: Setelah selesai, konfirmasikan pesanan Anda dan tunggu konfirmasi dari penjual atau Shopee.
+
+        \n10. *Tunggu Pengiriman*: Setelah pesanan Anda dikonfirmasi, tunggu barangnya dikirimkan oleh penjual. Anda akan menerima notifikasi saat barang dikirimkan dan dapat melacak pengiriman melalui aplikasi Shopee.
+
+        \n11. *Terima dan Beri Ulasan*: Setelah menerima barang, pastikan untuk memeriksa kualitasnya. Jika semuanya sesuai, Anda bisa memberikan ulasan dan rating kepada penjual di aplikasi Shopee.
+    </string>
+
+
+    //bakso goreng
+
+    <string name="Basreng"> BAKSO GORENG
+        \n
+        \nRasa pedas gurih yang bikin ketagihan bisa memanjakan lidah bagi setiap yg memakannya..
+        \nterjamin kesegaran rasanya.. terhindar dari kadaluarsa.. di masak dengan bumbu bumbu pilihan
+        \n
+        \nsilahkan di order ya😊😊 </string>
+
+    <string name="alamat2">
+        \nSleman - Yogyakarta
+    </string>
+
+    <string name="caraorder2">
+        \nBerikut langkah-langkah untuk memesan barang di Shopee:
+
+        \n1. Buka Aplikasi Shopee: Pastikan Anda sudah mengunduh dan membuka aplikasi Shopee di perangkat Anda.
+
+        \n2. *Cari Barang*: Gunakan fitur pencarian atau jelajahi kategori barang untuk menemukan produk yang ingin Anda beli.
+
+        \n3. *Pilih Barang*: Setelah menemukan barang yang Anda inginkan, klik atau ketuk untuk membuka halaman produknya.
+
+        \n4. *Periksa Detail*: Pastikan Anda membaca deskripsi produk, ulasan, dan mengecek harga, ukuran, warna, dan spesifikasi lainnya.
+
+        \n5. *Tambahkan ke Keranjang*: Jika Anda ingin membeli produk tersebut, klik atau ketuk tombol "Tambah ke Keranjang".
+
+        \n6. *Pesan Barang*: Setelah semua barang yang Anda inginkan ada di keranjang belanja, buka keranjang belanja Anda dan klik atau ketuk tombol "Checkout" atau "Bayar".
+
+        \n7. *Pilih Metode Pembayaran*: Pilih metode pembayaran yang Anda inginkan, seperti transfer bank, kartu kredit, atau metode pembayaran lainnya yang tersedia.
+
+        \n8. *Isi Detail Pembayaran*: Masukkan detail pembayaran yang diperlukan, seperti nomor kartu atau informasi rekening bank.
+
+        \n9. *Konfirmasi Pesanan*: Setelah selesai, konfirmasikan pesanan Anda dan tunggu konfirmasi dari penjual atau Shopee.
+
+        \n10. *Tunggu Pengiriman*: Setelah pesanan Anda dikonfirmasi, tunggu barangnya dikirimkan oleh penjual. Anda akan menerima notifikasi saat barang dikirimkan dan dapat melacak pengiriman melalui aplikasi Shopee.
+
+        \n11. *Terima dan Beri Ulasan*: Setelah menerima barang, pastikan untuk memeriksa kualitasnya. Jika semuanya sesuai, Anda bisa memberikan ulasan dan rating kepada penjual di aplikasi Shopee.
+    </string>
+
+    //kerupuk seblak
+
+    <string name="kerupuk"> KERUPUK SEBLAK
+        \n
+        \nkerupuk seblak bawang kami produksi sendiri  sehingga kualitas dan rasa terjamin kerupuk seblak bawang
+        \ndi tambah daun jeruk  rasanya makin enak kerupuk seblak bawang rasanya bikin nagih
+        \n
+        \ntunggu apalagi yu buruan order😊😊😊 </string>
+    <string name="alamat3">
+        \nSleman - Yogyakarta
+    </string>
+
+    <string name="caraorder3">
+        \nBerikut langkah-langkah untuk memesan barang di Shopee:
+
+        \n1. Buka Aplikasi Shopee: Pastikan Anda sudah mengunduh dan membuka aplikasi Shopee di perangkat Anda.
+
+        \n2. *Cari Barang*: Gunakan fitur pencarian atau jelajahi kategori barang untuk menemukan produk yang ingin Anda beli.
+
+        \n3. *Pilih Barang*: Setelah menemukan barang yang Anda inginkan, klik atau ketuk untuk membuka halaman produknya.
+
+        \n4. *Periksa Detail*: Pastikan Anda membaca deskripsi produk, ulasan, dan mengecek harga, ukuran, warna, dan spesifikasi lainnya.
+
+        \n5. *Tambahkan ke Keranjang*: Jika Anda ingin membeli produk tersebut, klik atau ketuk tombol "Tambah ke Keranjang".
+
+        \n6. *Pesan Barang*: Setelah semua barang yang Anda inginkan ada di keranjang belanja, buka keranjang belanja Anda dan klik atau ketuk tombol "Checkout" atau "Bayar".
+
+        \n7. *Pilih Metode Pembayaran*: Pilih metode pembayaran yang Anda inginkan, seperti transfer bank, kartu kredit, atau metode pembayaran lainnya yang tersedia.
+
+        \n8. *Isi Detail Pembayaran*: Masukkan detail pembayaran yang diperlukan, seperti nomor kartu atau informasi rekening bank.
+
+        \n9. *Konfirmasi Pesanan*: Setelah selesai, konfirmasikan pesanan Anda dan tunggu konfirmasi dari penjual atau Shopee.
+
+        \n10. *Tunggu Pengiriman*: Setelah pesanan Anda dikonfirmasi, tunggu barangnya dikirimkan oleh penjual. Anda akan menerima notifikasi saat barang dikirimkan dan dapat melacak pengiriman melalui aplikasi Shopee.
+
+        \n11. *Terima dan Beri Ulasan*: Setelah menerima barang, pastikan untuk memeriksa kualitasnya. Jika semuanya sesuai, Anda bisa memberikan ulasan dan rating kepada penjual di aplikasi Shopee.
+    </string>
+
+
+
+
+</resources>
